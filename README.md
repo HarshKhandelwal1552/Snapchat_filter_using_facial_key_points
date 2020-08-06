@@ -10,7 +10,8 @@ KeyPointDetector.json file.
 
 Here is a blog post for how Adam optimizer works(https://medium.com/@h2knitt/momentum-rmsprop-and-adam-optimizer-5769721b4b19)
 ## Detecting the faces
-I have used 'IP webcam' app to use my mobile camera as web cam 
+I have used 'IP webcam' app to use my mobile camera as web cam.
+
 I have used haarcascade frontal face classifier to detect multiple faces in the open cv video frames
 
 ## facial key points detection 
