@@ -20,5 +20,4 @@ The images of the faces captured by haarcascade clssifier is resized and convert
 ## Applying filters
 These facial key points are used for applying the filters 
 
-## Here is a visual of what this project is
-![](images/detecting_face.png)
+
